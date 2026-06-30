@@ -71,12 +71,7 @@ This space is reserved for upcoming builds — check back as the portfolio grows
 
 </details>
 
-<details>
-<summary><b>🐍 AI-Powered Data Analytics API</b> — Scalable backend service for data processing</summary>
-<br>Stack: Python · FastAPI · PostgreSQL · Docker
 
-- **Accomplished** processing of 10k+ daily data rows, **measured by** a 40% reduction in server response latency, **by** implementing asynchronous task queues in Python and FastAPI.
-</details>
 
 ---
 
