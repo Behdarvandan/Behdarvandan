@@ -1,82 +1,26 @@
-<div align="center">
+# Hi, I'm Poriya 👋
+### Cloud Infrastructure Architect & Full-Stack AI Engineer
 
-# Pouriya
-
-### Frontend / Full-Stack Web Developer — Building Scalable, High-Performance Web Applications
-
-</div>
+Specializing in **Productized SaaS Solutions**, **Containerized Cloud Architecture (AWS)**, and **Event-Driven AI Integrations**.
 
 ---
 
-## About Me
+### 🛠️ Core Modular Ecosystem (Production-Ready Templates)
 
-I build commercial-grade web applications where performance and clean architecture aren't trade-offs — they're the default. My focus is shipping scalable, type-safe products using Next.js, TypeScript, and modern backend tooling.
-
----
-
-## Tech Stack
-
-| Frontend | Backend / Database | Tools |
-|---|---|---|
-| Next.js | Supabase | Git & GitHub |
-| TypeScript | PostgreSQL | Vercel |
-| Tailwind CSS | REST APIs | VS Code |
-| React | | Figma |
+- 🚀 **[enterprise-saas-starter](https://github.com/Behdarvandan/enterprise-saas-starter):** Master Multi-tenant SaaS Boilerplate featuring Supabase RLS, Stripe Subscriptions, RBAC, PayTR Adapter, Resend Email, Playwright E2E, Sentry, and GitHub Actions CI/CD.
+- 📄 **[ai-invoice-analyzer](https://github.com/Behdarvandan/ai-invoice-analyzer):** Event-Driven Serverless Document Intelligence Microservice built on AWS Lambda, S3, Docker, Pydantic, and Groq AI (Llama 3.3).
+- 📦 **[nextjs-cloud-catalog](https://github.com/Behdarvandan/nextjs-cloud-catalog):** High-Performance E-Commerce Catalog Engine optimized with Next.js 15 Standalone Docker builds (~145MB), AWS ECS Fargate, and Terraform IaC.
 
 ---
 
-## Projects & Experience — *The Living Portfolio*
-
-<sub>Click each project to expand details. New projects are added below following the same template.</sub>
-
-<details open>
-<summary><b>🏢 Corporate Product Catalog Website</b> — High-performance B2B product catalog platform</summary>
-
-<br>
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL
-
-- **Accomplished** a significant reduction in page load times across a multi-hundred-product catalog, **measured by** Core Web Vitals (LCP/SEO performance) scores, **by** implementing Next.js static generation and server-side rendering tailored to product page traffic patterns.
-- **Accomplished** fast, reliable search and filtering at scale, **measured by** consistent low-latency query response times as the catalog grows, **by** designing an optimized, indexed PostgreSQL schema in Supabase built specifically for filtering and search workloads.
-
-</details>
-
-<!--
-=====================================================================
-  TEMPLATE — Copy this block to add a new project below
-  Keep the X-Y-Z bullet formula: Accomplished X, measured by Y, by Z
-=====================================================================
-
-<details>
-<summary><b>[Emoji] Project Name</b> — One-line project description</summary>
-
-<br>
-
-**Stack:** Tech · Tech · Tech
-
-- **Accomplished** [result/impact], **measured by** [metric], **by** [action/method].
-- **Accomplished** [result/impact], **measured by** [metric], **by** [action/method].
-
-</details>
-
-=====================================================================
--->
-
-<details>
-<summary><b>➕ More projects coming soon</b></summary>
-
-<br>
-
-This space is reserved for upcoming builds — check back as the portfolio grows.
-
-</details>
-
-
+### 🧰 Tech Stack & Architecture
+- **Cloud & Infrastructure:** AWS (Lambda, S3, ECS Fargate, ECR), Terraform IaC, Docker (Multi-stage), GitHub Actions CI/CD.
+- **Frontend & Backend:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Python.
+- **Data & Security:** Supabase (PostgreSQL, Multi-tenant RLS, pgvector HNSW), Stripe API, Upstash Redis Rate Limiting.
+- **AI Integrations:** Groq AI (Llama 3.3), Pydantic Structured Outputs, OpenAI Text Embeddings.
 
 ---
 
-<div align="center">
-
-💬 Open to collaborating on frontend and full-stack projects — feel free to connect.
-
-</div>
+### 📬 Connect with Me
+- **Portfolio / Services:** Productized 48-72h B2B SaaS Implementations & AI Automations.
+- **Location:** Open for Global Freelance Contracts & European / German Cloud Roles.
