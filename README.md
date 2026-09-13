@@ -1,4 +1,4 @@
-# Hi, I'm Poriya 👋
+# Hi, I'm Pouriya 👋
 ### Cloud Infrastructure Architect & Full-Stack AI Engineer
 
 Specializing in **Productized SaaS Solutions**, **Containerized Cloud Architecture (AWS)**, and **Event-Driven AI Integrations**.
