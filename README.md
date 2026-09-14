@@ -1,26 +1,39 @@
-# Hi, I'm Pouriya 👋
+# Hi, I'm Pouriya Behdarvandan 👋
 ### Cloud Infrastructure Architect & Full-Stack AI Engineer
 
-Specializing in **Productized SaaS Solutions**, **Containerized Cloud Architecture (AWS)**, and **Event-Driven AI Integrations**.
+Specializing in **Modular B2B SaaS Ecosystems**, **Containerized Cloud Infrastructure (AWS)**, and **Event-Driven AI Automations**. Open for Global Contracts & European Roles.
 
 ---
 
-### 🛠️ Core Modular Ecosystem (Production-Ready Templates)
+### 🛠️ Production Systems & Modular Ecosystem
 
-- 🚀 **[enterprise-saas-starter](https://github.com/Behdarvandan/enterprise-saas-starter):** Master Multi-tenant SaaS Boilerplate featuring Supabase RLS, Stripe Subscriptions, RBAC, PayTR Adapter, Resend Email, Playwright E2E, Sentry, and GitHub Actions CI/CD.
-- 📄 **[ai-invoice-analyzer](https://github.com/Behdarvandan/ai-invoice-analyzer):** Event-Driven Serverless Document Intelligence Microservice built on AWS Lambda, S3, Docker, Pydantic, and Groq AI (Llama 3.3).
-- 📦 **[nextjs-cloud-catalog](https://github.com/Behdarvandan/nextjs-cloud-catalog):** High-Performance E-Commerce Catalog Engine optimized with Next.js 15 Standalone Docker builds (~145MB), AWS ECS Fargate, and Terraform IaC.
-
----
-
-### 🧰 Tech Stack & Architecture
-- **Cloud & Infrastructure:** AWS (Lambda, S3, ECS Fargate, ECR), Terraform IaC, Docker (Multi-stage), GitHub Actions CI/CD.
-- **Frontend & Backend:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Python.
-- **Data & Security:** Supabase (PostgreSQL, Multi-tenant RLS, pgvector HNSW), Stripe API, Upstash Redis Rate Limiting.
-- **AI Integrations:** Groq AI (Llama 3.3), Pydantic Structured Outputs, OpenAI Text Embeddings.
+- 🚀 **[enterprise-saas-starter](https://github.com/Behdarvandan/enterprise-saas-starter)**: Master Enterprise SaaS Engine featuring Supabase Multi-Tenant RLS, Stripe & PayTR Adapters, Embeddable RAG AI Assistant (pgvector HNSW), Automated Booking System, Resend Email, Playwright E2E, Sentry Observability, and GitHub Actions CI/CD.
+- 📦 **[nextjs-cloud-catalog](https://github.com/Behdarvandan/nextjs-cloud-catalog)**: High-Performance Standalone Catalog Engine optimized with 3-stage Docker builds (~145MB container footprint), Terraform IaC, and AWS ECS Fargate auto-scaling.
+- 📄 **[ai-invoice-analyzer](https://github.com/Behdarvandan/ai-invoice-analyzer)**: Event-Driven Serverless Document Intelligence Microservice built on AWS Lambda, AWS S3, Groq AI (Llama 3.3), and Pydantic structured JSON validation ($0 idle compute cost).
+- 💬 **[pouriya-portfolio](https://github.com/Behdarvandan/pouriya-portfolio)**: Ultra-minimalist engineering portfolio showcase built with Next.js 15 App Router, TypeScript, and Tailwind CSS.
 
 ---
 
-### 📬 Connect with Me
-- **Portfolio / Services:** Productized 48-72h B2B SaaS Implementations & AI Automations.
-- **Location:** Open for Global Freelance Contracts & European / German Cloud Roles.
+### 🧰 Tech Stack & Cloud Architecture
+
+| Domain | Technologies & Infrastructure |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS (ECS Fargate, Lambda, S3, ECR), Terraform IaC, Docker (Multi-stage builds), GitHub Actions CI/CD |
+| **Frontend & Core** | Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Lucide Icons |
+| **Backend & Security** | Supabase (PostgreSQL, Multi-tenant RLS, pgvector HNSW), Stripe API, PayTR API, Upstash Redis Rate Limiting |
+| **AI & Automation** | Groq AI (Llama 3.3), OpenAI Embeddings, Pydantic, Server-Sent Events (SSE Streaming) |
+
+---
+
+### 📊 Quantified Engineering Highlights
+
+- **85%+ Footprint Reduction**: Optimized Next.js standalone Docker builds from 1.2GB down to ~145MB.
+- **Strict Data Isolation**: Enforced 100% tenant data separation via Supabase RLS policies and custom database triggers.
+- **Serverless Efficiency**: Designed event-driven document processing pipelines operating at $0 idle cloud architecture costs.
+
+---
+
+### 📬 Connect & Collaborate
+- **GitHub**: [github.com/Behdarvandan](https://github.com/Behdarvandan)
+- **Email**: [pouriya@behdarvandan.dev](mailto:pouriya@behdarvandan.dev)
+- **Location**: Antalya, Turkey *(Available for Global Remote Contracts & European Roles)*
